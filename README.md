@@ -1,6 +1,8 @@
 # Tic-tac-toe
+![image](https://github.com/user-attachments/assets/ae20f020-bf57-4a2c-b22f-c4ce91d0b575)
+![image](https://github.com/user-attachments/assets/e16f6f44-a393-4ef8-bdd5-de7ac60eb3de)
 
-![image](https://github.com/user-attachments/assets/77da017e-acdd-41f2-a7d7-25e2371bb6bb)
-![image](https://github.com/user-attachments/assets/21074f29-3971-4789-ae3c-20fec6bd61d1)
-![image](https://github.com/user-attachments/assets/9c76fbd7-12b9-41db-9ec8-1f37e7e756b3)
+![image](https://github.com/user-attachments/assets/09599c3b-55b2-4789-8dcc-96285936cea7)
+
+
 
